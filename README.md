@@ -1,5 +1,11 @@
 # Primeira atividade prática
 
-Este repositório possui o arquivo euler2.c. Escreva neste arquivo um programa para o problema 2 da página https://projecteuler.net/
+Siga os seguintes passos:
 
-Tente resolver outros problemas do Project Euler, para isso, crie novos arquivos.
+1. Acrescente um protótipo no arquivo listaDupla.h para uma função que encontra o nó com o menor elemento da lista duplamente encadeada. Esta função deve devolver um link para o nó encontrado. 
+2. Acrescente um protótipo no arquivo listaDupla.h para uma função que ordena uma lista duplamente encadeada.
+3. Implemente no arquivo listaDupla.c a função que busca o menor elemento da lista.
+4. Implemente no arquivo listaDupla.c a função que ordena a lista 
+
+
+
